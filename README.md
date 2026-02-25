@@ -135,13 +135,11 @@ Each project includes:
 
 ## 📂 Project Structure
 
-manoj-portfolio/
+portfolio-website/
 │
-├── index.html              # Main HTML file
-├── style.css               # Main stylesheet
-├── README.md               # Project documentation
-└── .gitignore              # Git ignore file
-
+├── index.html
+├── style.css
+└── README.md
 
 ---
 
