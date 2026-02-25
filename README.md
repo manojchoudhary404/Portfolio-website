@@ -134,11 +134,12 @@ Each project includes:
 ---
 
 ## 📂 Project Structure
---portfolio-website/
---│
---├── index.html
---├── style.css
---└── README.md
+
+portfolio-website/
+│
+├── index.html
+├── style.css
+└── README.md
 
 
 ---
